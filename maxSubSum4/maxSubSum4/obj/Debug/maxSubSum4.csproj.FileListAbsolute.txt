@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\maxSubSum4\maxSubSum4\bin\Debug\maxSubSum4.exe.config
+c:\users\user\documents\visual studio 2012\Projects\maxSubSum4\maxSubSum4\bin\Debug\maxSubSum4.exe
+c:\users\user\documents\visual studio 2012\Projects\maxSubSum4\maxSubSum4\bin\Debug\maxSubSum4.pdb
+c:\users\user\documents\visual studio 2012\Projects\maxSubSum4\maxSubSum4\obj\Debug\maxSubSum4.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\maxSubSum4\maxSubSum4\obj\Debug\maxSubSum4.exe
+c:\users\user\documents\visual studio 2012\Projects\maxSubSum4\maxSubSum4\obj\Debug\maxSubSum4.pdb
